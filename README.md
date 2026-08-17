@@ -45,11 +45,4 @@ By processing audio locally at the device level, Eco-Sync provides immediate, lo
 
 
 
-## 📂 Repository Structure
 
-
-├── firmware/          # Embedded C/C++ source code for the node
-├── models/            # Trained Edge AI model files (.tflite / C++ library)
-├── hardware/          # Circuit schematics and enclosure designs
-├── docs/              # System design diagrams and documentation
-└── README.md          # Project overview
